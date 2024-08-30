@@ -1,0 +1,17 @@
+Répertoire "sql"
+----------------
+Le répertoire "sql" contient le script permettant de créer la base de données
+"eni" utilisée dans les différents exemples. Reportez-vous au chapitre 2 pour
+l'installation de cette base de données de démonstration.
+Le répertoire "sql" contient aussi les différents exemples SQL présentés dans
+les chapitres 2 à 5.
+
+Répertoire "php"
+----------------
+Le répertoire "php" contient les différents exemples PHP présentés dans les
+chapitres 6 à 13.
+Pour tester ces différents exemple, vous pouvez copier le contenu de ce 
+répertoire dans un répertoire de l'arborescence de votre serveur Web.
+Vous pouvez ensuite accéder au sommaire des exemples de chaque chapitre avec
+une URL du type :
+http://serveur/repertoire/chapitre-NN/index.php 

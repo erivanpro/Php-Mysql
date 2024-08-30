@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<articles>
+	<article code="A1" couleur="jaune">
+		<identifiant>1</identifiant>
+		<libelle>Abricots</libelle>
+		<prix>35.5</prix>
+	</article>
+	<article code="A2" couleur="rouge">
+		<identifiant>2</identifiant>
+		<libelle>Cerises</libelle>
+		<prix>48.9</prix>
+	</article>
+	<article code="A3" couleur="rouge">
+		<identifiant>3</identifiant>
+		<libelle>Fraises</libelle>
+		<prix>29.95</prix>
+	</article>
+	<article code="A4" couleur="jaune">
+		<identifiant>4</identifiant>
+		<libelle>Pêches</libelle>
+		<prix>37.2</prix>
+	</article>
+</articles>
